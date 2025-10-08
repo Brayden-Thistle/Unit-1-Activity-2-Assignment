@@ -17,4 +17,5 @@ fmt.Println("What is the area of a circle with the radius of 14cm?")
 fmt.Println("The area of a cirlce with the radius of 14cm is " + fmt.Sprint(3.14 * 14 * 14) + "cm²")
 
 fmt.Println("\nDone")
+
 }
